@@ -5,7 +5,6 @@ The program takes user input for **weight** and **height**, calculates the BMI, 
 
 
 
----
 
 ## 🚀 Features
 - Takes weight in kilograms
@@ -17,17 +16,15 @@ The program takes user input for **weight** and **height**, calculates the BMI, 
   - Overweight
   - Obese
 
----
 
 ## 🛠️ Technologies Used
 - Python 3
 
----
 
 ## ▶️ How to Run
 1. Make sure Python is installed on your system
 2. Open Command Prompt in the project folder
 3. Run the following command:
 
-```bash
+bash
 python bmi_calculator.py
